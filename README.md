@@ -9,7 +9,7 @@
 
 ## Installation
 
-1. Download the latest release from the [releases](link_to_releases) page.
+1. Download the latest release from the [releases](https://github.com/N0edL/ndl_adminduty/releases/latest) page.
 2. Extract the downloaded ZIP file into your FiveM server's resources folder.
 3. Configure the settings in the `settings.lua` file to your preference.
 4. Add `ensure ndl_adminduty` to your server.cfg file.
@@ -26,7 +26,7 @@ The `settings.lua` file contains configurable options such as permission levels 
 
 ## Support and Feedback
 
-If you encounter any issues or have suggestions for improvements, please open an issue on [GitHub](link_to_repository). Pull requests are also welcome!
+If you encounter any issues or have suggestions for improvements, please open an issue on [GitHub](https://github.com/N0edL/ndl_adminduty). Pull requests are also welcome!
 
 ## License
 
