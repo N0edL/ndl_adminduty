@@ -4,7 +4,7 @@
 
 ## Features
 
-- Toggle in and out of duty using an ui that can be opend by command `/admin-duty` or via a key adjustable in **settings.lua**.
+- Toggle in and out of duty using an ui that can be opend by command `/admin-duty`
 
 ## Installation
 
